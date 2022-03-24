@@ -1,5 +1,5 @@
 {
-  description = ''Nim math library'';
+  description = ''Nimrod math library'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
