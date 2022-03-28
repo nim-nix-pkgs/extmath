@@ -11,7 +11,6 @@
   inputs.src-extmath-v1_2.ref   = "refs/tags/v1.2";
   inputs.src-extmath-v1_2.owner = "achesak";
   inputs.src-extmath-v1_2.repo  = "extmath.nim";
-  inputs.src-extmath-v1_2.dir   = "";
   inputs.src-extmath-v1_2.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

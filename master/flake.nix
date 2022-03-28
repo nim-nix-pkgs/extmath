@@ -11,7 +11,6 @@
   inputs.src-extmath-master.ref   = "refs/heads/master";
   inputs.src-extmath-master.owner = "achesak";
   inputs.src-extmath-master.repo  = "extmath.nim";
-  inputs.src-extmath-master.dir   = "";
   inputs.src-extmath-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
